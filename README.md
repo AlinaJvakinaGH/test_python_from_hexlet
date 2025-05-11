@@ -1,2 +1,2 @@
 # test_python_from_hexlet
-Tests from a personal course on automated tests in the Python programming language are published here
+Tests from a personal course on automated testing in the Python programming language + simple tests with Pytest
